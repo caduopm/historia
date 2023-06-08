@@ -1,0 +1,17 @@
+html, body {margin: 0; padding: 0;}
+    
+#myWorkContent{
+width: auto;
+height:210px;
+border: 13px solid #bed5cd;
+overflow-x: scroll;
+overflow-y: hidden;
+white-space: nowrap;
+}
+
+#myWorkContent a {
+display: inline-block;
+vertical-align: middle;
+}
+
+#myWorkContent img {border: 0;}
